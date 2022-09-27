@@ -16,7 +16,7 @@
    width="2481"
    height="3503"
    sodipodi:docname="E36P15.svg"
-   inkscape:export-filename="/Users/su_huynh/Downloads/lang 2/vi/E36P15.png"
+   inkscape:export-filename="/Users/su_huynh/Downloads/lang 36/vi/E36P15.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
   <metadata
@@ -46,9 +46,9 @@
      inkscape:window-height="756"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.27932674"
+     inkscape:zoom="0.63939637"
      inkscape:cx="2024.442"
-     inkscape:cy="972.73577"
+     inkscape:cy="722.49975"
      inkscape:window-x="13"
      inkscape:window-y="16"
      inkscape:window-maximized="0"
@@ -61,13 +61,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/Users/su_huynh/Downloads/lang 2/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E36P15.png"
+       sodipodi:absref="/Users/su_huynh/Downloads/lang 36/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E36P15.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E36P15.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -405,7 +405,7 @@
          sodipodi:role="line"
          x="1968.2166"
          y="3203.021"
-         id="tspan6526">Tao gớm dữ lắm rồi!</tspan></text>
+         id="tspan6526">Làm ơn xuống đi!</tspan></text>
     <path
        sodipodi:type="arc"
        style="opacity:0.98999999;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"

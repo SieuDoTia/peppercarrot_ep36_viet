@@ -15,7 +15,10 @@
    inkscape:version="0.48.5 r10040"
    width="2481"
    height="3503"
-   sodipodi:docname="E36P05.svg">
+   sodipodi:docname="E36P05.svg"
+   inkscape:export-filename="/Users/su_huynh/Downloads/lang 36/vi/E36P05.png"
+   inkscape:export-xdpi="45"
+   inkscape:export-ydpi="45">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -24,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -807,14 +810,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1276"
-     inkscape:window-height="756"
+     inkscape:window-height="724"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.51700387"
-     inkscape:cx="1387.3013"
-     inkscape:cy="973.56089"
-     inkscape:window-x="25"
-     inkscape:window-y="0"
+     inkscape:zoom="0.089852126"
+     inkscape:cx="4493.4074"
+     inkscape:cy="497.66327"
+     inkscape:window-x="562"
+     inkscape:window-y="31"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer3"
      inkscape:pagecheckerboard="0"
@@ -825,13 +828,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/Users/su_huynh/Downloads/lang 2/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E36P05.png"
+       sodipodi:absref="/Users/su_huynh/Downloads/lang 36/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E36P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E36P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1005,7 +1008,7 @@
        sodipodi:nodetypes="cccccccccccccccccccccccccccc" />
     <path
        style="color:#000000;fill:#ffffff;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 487.07665,1948.853 c -32.89011,-0.055 -39.32787,19.3699 -40.88715,26.8376 -14.47677,-15.6954 -50.17256,-33.3834 -59.40503,-3.3622 -17.45667,-11.1529 -34.27377,2.446 -29.94002,15.4886 -46.18489,-16.6418 -41.3508,44.802 -22.45502,42.0402 -20.39065,11.5692 -13.01196,53.9532 12,47.615 -3.29285,34.0746 28.63894,32.8525 42.41504,24.339 -0.62861,8.2271 16.63334,22.864 24.95001,11.0632 6.5128,16.3334 38.30457,10.9995 44.91004,-11.0632 12.84133,27.8328 49.29677,29.5669 69.86004,2.2126 6.59219,12.0908 23.10159,1.6541 27.44503,-6.6378 18.70176,20.7518 57.41913,0.061 42.41502,-26.5518 28.30301,7.3539 32.73907,-14.2057 22.45503,-30.977 25.695,-1.2706 24.43064,-40.3137 -13.72253,-46.4654 17.68474,-22.38 -27.67312,-43.7473 -37.42501,-18.8075 -7.49793,-12.6852 -40.10296,-7.2711 -41.01309,6.0736 -5.76812,-19.8313 -13.68397,-31.7587 -41.60236,-31.8049 z"
+       d="m 487.07665,1948.853 c -32.89011,-0.055 -39.32787,19.3699 -40.88715,26.8376 -14.47677,-15.6954 -50.17256,-33.3834 -59.40503,-3.3622 -17.45667,-11.1529 -34.27377,2.446 -29.94002,15.4886 -46.18489,-16.6418 -41.3508,44.802 -22.45502,42.0402 -34.29479,17.8893 -17.01196,53.9532 8,47.615 -3.29285,34.0746 32.63894,32.8525 46.41504,24.339 -0.62861,8.2271 16.63334,22.864 24.95001,11.0632 6.5128,16.3334 38.30457,10.9995 44.91004,-11.0632 12.84133,27.8328 49.29677,29.5669 69.86004,2.2126 6.59219,12.0908 23.10159,1.6541 27.44503,-6.6378 18.70176,20.7518 61.41913,0.061 46.41502,-26.5518 28.30301,7.3539 28.73907,-14.2057 18.45503,-30.977 25.695,-1.2706 24.43064,-40.3137 -13.72253,-46.4654 17.68474,-22.38 -27.67312,-43.7473 -37.42501,-18.8075 -7.49793,-12.6852 -40.10296,-7.2711 -41.01309,6.0736 -5.76812,-19.8313 -13.68397,-31.7587 -41.60236,-31.8049 z"
        id="path12072"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="scccccccccccccccs" />
@@ -1019,11 +1022,11 @@
          sodipodi:role="line"
          id="tspan12076"
          x="473.88428"
-         y="2026.2219">Tao là con gọp săn</tspan><tspan
+         y="2026.2219">Tao là con gọp</tspan><tspan
          sodipodi:role="line"
-         x="477.90381"
+         x="473.88428"
          y="2078.7219"
-         id="tspan12078">mồi trong rừng </tspan></text>
+         id="tspan12078">hung dữ săn mồi!</tspan></text>
     <path
        sodipodi:type="arc"
        style="opacity:0.98999999000000005;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
